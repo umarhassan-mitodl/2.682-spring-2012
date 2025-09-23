@@ -1,0 +1,22 @@
+leftnav:
+- identifier: 0228f4e5-2710-634c-0713-a6c619621b6e
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 611e11f4-e8ea-5ad1-f86b-b08a51f85b7a
+  name: Instructor Statements
+  pageRef: /pages/syllabus/instructor-statements
+  parent: 0228f4e5-2710-634c-0713-a6c619621b6e
+  weight: 20
+- identifier: 8f4576d8-22dd-c706-7aef-17008f5819ba
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 590d5193-61ba-4c59-74bb-38c0b4762ca3
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 31177158-fb12-ed7c-49dc-69b06576c013
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
