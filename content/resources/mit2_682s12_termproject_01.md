@@ -5,6 +5,8 @@ description: This resource contains information regarding coupled acoustic norma
 file: /courses/2-682-acoustical-oceanography-spring-2012/70c4c4bbfedb587f8bb55d1848986d94_MIT2_682S12_termproject_01.pdf
 file_size: 844647
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'This resource contains information regarding problem set #5.'
 file: /courses/2-682-acoustical-oceanography-spring-2012/fc090da737f1091dd983337ab9494383_MIT2_682S12_Homework5.pdf
 file_size: 305247
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

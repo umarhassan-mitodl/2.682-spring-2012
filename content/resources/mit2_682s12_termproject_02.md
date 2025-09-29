@@ -5,6 +5,8 @@ description: 'This resource contains information regarding numerical methods: wa
 file: /courses/2-682-acoustical-oceanography-spring-2012/0c21782e7e67803613176d7fb8eef3d8_MIT2_682S12_termproject_02.pdf
 file_size: 333884
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
