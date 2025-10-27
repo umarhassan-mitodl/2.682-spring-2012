@@ -5,8 +5,6 @@ description: This resource contains information regarding inverse theory/tomogra
 file: /courses/2-682-acoustical-oceanography-spring-2012/c47d14e3e0f4151bc0f6f9266aa7838d_MIT2_682S12_termproject_03.pdf
 file_size: 215813
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
